@@ -9,6 +9,9 @@
 !.yarn/plugins
 !.yarn/releases
 !.yarn/versions
+package-lock.jaon
+next.config.ts
+next-env.d.t
 
 # testing
 /coverage
