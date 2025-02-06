@@ -9,7 +9,7 @@
 !.yarn/plugins
 !.yarn/releases
 !.yarn/versions
-package-lock.jaon
+package-lock.json
 next.config.ts
 next-env.d.t
 
